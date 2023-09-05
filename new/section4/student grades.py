@@ -1,0 +1,7 @@
+first_name=input("Enter the first student name:")
+first_id=int(input("Enter the first student ID:"))
+first_grade=int(input("Enter the first student grade:"))
+second_name=input("Enter the second student name:")
+second_id=int(input("Enter the second student ID:"))
+second_grade=int(input("Enter the second student grade:"))
+print(f"Inormat for students and their  grades\n{first_name} (ID  {first_id})")
